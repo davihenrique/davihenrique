@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá... 👋
+
+- 🙂 Eu sou o Davi.
+- 👀  Tenho interesse em desenvolvimento **Full Stack** e **DevOps**.
+- 👨‍💻 Tenho experiência em **Back End** com aplicações **.NET**.
+- 🌱 Atualmente venho aprendendo **React** e expandido meu conhecimento sobre **DevOps**.
+- ⚡ Fato engraçado: meu interesse por desenvolvimento surgiu quando tinha 14 anos e queria personalizar meu perfil do Tumblr.
+- 📫 Meu E-Mail: [davi.silva2597@gmail.com](mailto:davi.silva2597@gmail.com)
 
 <!--
 **davihenrique/davihenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
